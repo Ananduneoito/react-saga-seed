@@ -59,7 +59,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "pretest": "./node_modules/.bin/eslint --ignore-path .eslintignore . --fix",
-    "amplify:pull": "./amplify-pull.sh AKIA6KSHZCZ4BTR4RRY2 YuBKfAjvq/6f4w/2dubknEzfE5AmSItDSHKhF+Z+ test"
+    "amplify:pull": "./amplify-pull.sh AWS-key-do-not-add-it-in-git YuBKfAjvq/6f4w/2dubknEzfE5AmSItDSHKhF+Z+ test"
   },
   "husky": {
     "hooks": {
